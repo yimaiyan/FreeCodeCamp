@@ -1,0 +1,26 @@
+<style>
+  .red-text {
+    color: #FF0000;
+  }
+  .green-text {
+    color: #00ff00;
+  }
+  .dodger-blue-text {
+    color: #1E90FF;
+  }
+  .orange-text {
+    color: #FFA500;
+  }
+</style>
+
+<h1 class="red-text">I am red!</h1>
+
+<h1 class="green-text">I am green!</h1>
+
+<h1 class="dodger-blue-text">I am dodger blue!</h1>
+
+<h1 class="orange-text">I am orange!</h1>
+
+<!--回顾一下，十六进制编码使用 6 个十六进制字符来表示颜色，两个字符为一组，分别代表红（R）、绿（G）、蓝（B）。
+
+通过三原色（红、绿、蓝），我们可以创建 1600 万种不同颜色。-->
