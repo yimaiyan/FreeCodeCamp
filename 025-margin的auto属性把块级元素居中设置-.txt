@@ -1,0 +1,10 @@
+<style>
+  div {
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+dsiplay:block;
+margin:auto;
+  }
+</style>
+<div></div>
