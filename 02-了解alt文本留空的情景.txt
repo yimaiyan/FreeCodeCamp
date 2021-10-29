@@ -1,0 +1,15 @@
+<h1>Deep Thoughts with Master Camper Cat</h1>
+<article>
+  <h2>Defeating your Foe: the Red Dot is Ours!</h2>
+  <p>To Come...</p>
+</article>
+
+<img src="samuraiSwords.jpeg" alt="">
+
+<article>
+  <h2>Is Chuck Norris a Cat Person?</h2>
+  <p>To Come...</p>
+</article>
+<!--比如，背景图片通常起装饰作用。 但这些图片通常都是通过 CSS 规则而非 HTML 引入的，因此屏幕阅读器毋需读取。
+
+注意： 对于有标题的图片，依然需要添加 alt 文本，因为这样有助于搜索引擎记录图片内容。-->
